@@ -2,7 +2,7 @@
 Created by: Shannon Lichtenwalter & Lazandrea Celestine
 
 ### See It Live: 
-
+https://shannon-lichtenwalter.github.io/space-quiz-app/
 
 #### Summary
 This simple quiz application tests the user's knowledge on 5 outer space questions.
@@ -13,5 +13,5 @@ Javascript, JQuery, HTML, CSS
 
 #### Screenshots
 
-![question](./QuizApp1.png)
-![answer](./QuizApp2.png)
+<img src='./QuizApp1.png' alt="question page" width="200px">
+<img src='./QuizApp2.png' alt="question page" width="200px">
