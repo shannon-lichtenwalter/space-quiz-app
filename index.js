@@ -1,22 +1,22 @@
-'use strict';
-//adding the quiz questions to our QUESTION bank.
+
+// adding the quiz questions to our QUESTION bank.
 const QUESTIONS = [
   {
-    question: 'What is the smallest planet in the Solar System?',
-    answers: ['Mercury', 'Pluto', 'Jupiter', 'Mars'],
-    correct: 'Mercury',
+    question: 'Triton is the largest moon of what planet?',
+    answers: ['Mercury', 'Neptune', 'Jupiter', 'Mars'],
+    correct: 'Neptune',
     ask: false
   },
   {
-    question: 'What is the hottest planet in the Solar System?',
+    question: 'The sixth planet from the Sun features an extensive ring system, what is the name of this planet?',
     answers: ['Mars', 'Venus', 'Sun', 'Saturn'],
-    correct: 'Venus',
+    correct: 'Saturn',
     ask: false
   },
   {
-    question: 'What planet is closest in size to Earth?',
-    answers: ['Uranus', 'Saturn', 'Venus', 'Jupiter'],
-    correct: 'Venus',
+    question: 'What planet is nicknamed the ‘Red Planet’?',
+    answers: ['Mars', 'Saturn', 'Venus', 'Jupiter'],
+    correct: 'Mars',
     ask: false
   },
   {
